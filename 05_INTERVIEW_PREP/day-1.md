@@ -1,0 +1,1 @@
+Why should Python projects use virtual environments instead of global installations?
